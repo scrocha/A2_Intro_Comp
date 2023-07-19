@@ -1,6 +1,6 @@
 # Coleta de Dados
 
-A coleta de dados foi feita pela biblioteca [PySus](https://pysus.readthedocs.io/en/latest/), através do [Google Colab](https://colab.research.google.com/), para que pudesse haver a decodificação das idades, necessárioa para uma questão.
+A coleta de dados foi feita pela biblioteca [PySus](https://pysus.readthedocs.io/en/latest/), através do [Google Colab](https://colab.research.google.com/), para que pudesse haver a decodificação das idades, necessárioa para uma questão, assim gerando o arquivo [chagas_2019.csv](./data/chagas_2019.csv).
 
 # Resolução
 
